@@ -1,5 +1,5 @@
 {
-  "name": "openvidu-mvc-node",
+  "name": "maxifjaved-mvc-node",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/OpenVidu/openvidu-tutorials.git"
+    "url": "git+https://github.com/maxifjaved/openvidu-learn.git"
   },
-  "author": "openvidu@gmail.com",
+  "author": "maxifjaved@gmail.com",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/OpenVidu/openvidu-tutorials/issues"
+    "url": "https://github.com/maxifjaved/openvidu-learn/issues"
   },
-  "homepage": "https://github.com/OpenVidu/openvidu-tutorials#readme",
+  "homepage": "https://github.com/maxifjaved/openvidu-learn#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
     "ejs": "^2.5.6",
